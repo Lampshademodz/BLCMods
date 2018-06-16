@@ -1,0 +1,6 @@
+#</this does'nt make the cobra drop everytime you kill a burner but it does make it drop more often with a little twist ;) just kill some burners you'll see>
+
+
+set GD_Iris_Weapons.SniperRifles.Sniper_Jakobs_3_Cobra rarity (BaseValueConstant=5.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Iris_ItemPools.WeaponPools.Pool_Weapons_DragonGang_SniperRifles Quantity (BaseValueConstant=100,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1)
+set GD_Iris_ItemPools.WeaponPools.Pool_Weapons_AngelGang_SniperRifles Quantity (BaseValueConstant=100,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1)
